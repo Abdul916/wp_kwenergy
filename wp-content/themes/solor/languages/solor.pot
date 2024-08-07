@@ -1,0 +1,702 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Solor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-22 04:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: solor"
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:373
+msgid "Add"
+msgstr ""
+
+#: inc/functions.php:56
+msgid "Add a menu"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:128
+msgid "Add Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:473
+msgid "Add Row"
+msgstr ""
+
+#: functions.php:212
+msgid "Add widgets here to appear in your project sidebar."
+msgstr ""
+
+#: functions.php:202
+msgid "Add widgets here to appear in your services sidebar."
+msgstr ""
+
+#: functions.php:192
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:153
+msgid "Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:348
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. Add the attachment's name to the title
+#: inc/functions.php:126
+#, php-format
+msgid "Attachment: %s"
+msgstr ""
+
+#. Add the author's name to the title
+#: inc/functions.php:91
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#. Author of the theme
+msgid "Awaiken"
+msgstr ""
+
+#: template-parts/404.php:45
+msgid "Back To Home"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:355
+#: inc/compatibility/elementor/widgets/site-logo.php:581
+msgid "Background Color"
+msgstr ""
+
+#: inc/functions.php:86
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:311
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:365
+msgid "Blog Single Layout"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:407
+msgid "Border Color"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:425
+msgid "Border Radius"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:366
+msgid "Border Style"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:385
+msgid "Border Width"
+msgstr ""
+
+#: inc/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:180
+#: inc/compatibility/elementor/widgets/site-logo.php:555
+msgid "Caption"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:161
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/customizer.php:172 inc/customizer/customizer.php:199
+#: inc/customizer/customizer.php:248 inc/customizer/customizer.php:331
+#: inc/customizer/customizer.php:433
+msgid "Change File"
+msgstr ""
+
+#: inc/customizer/customizer.php:177 inc/customizer/customizer.php:204
+#: inc/customizer/customizer.php:253 inc/customizer/customizer.php:336
+#: inc/customizer/customizer.php:438
+msgid "Choose File"
+msgstr ""
+
+#: inc/customizer/customizer.php:386
+msgid "Choose the social network you want to display in the social share box."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/portfolio.php:53
+msgid "Columns"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Response"
+msgstr ""
+
+#: inc/customizer/customizer.php:453
+msgid "Copyright Text"
+msgstr ""
+
+#: template-parts/footer.php:60
+msgid "Created by Awaiken, Powered by WordPress. All rights reserved"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:193
+msgid "Custom Caption"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:116
+msgid "Custom Image"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:217
+msgid "Custom URL"
+msgstr ""
+
+#: inc/breadcrumbs.php:790 inc/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#. Add the queried date to the title
+#: inc/functions.php:99
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:375
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer/customizer.php:173 inc/customizer/customizer.php:200
+#: inc/customizer/customizer.php:249 inc/customizer/customizer.php:332
+#: inc/customizer/customizer.php:434
+#: inc/compatibility/elementor/widgets/site-logo.php:214
+#: inc/compatibility/elementor/widgets/site-logo.php:245
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer.php:101
+msgid "Display preloader while the page is loading."
+msgstr ""
+
+#: inc/customizer/customizer.php:117
+msgid "Display Tagline after logo."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:374
+msgid "Dotted"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:373
+msgid "Double"
+msgstr ""
+
+#: inc/required-plugins.php:67
+msgid "Elementor"
+msgstr ""
+
+#: inc/required-plugins.php:73
+msgid "ElementsKit Lite"
+msgstr ""
+
+#: inc/required-plugins.php:79
+msgid "ElementsKit Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:401
+msgid "Email"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:196
+msgid "Enter caption"
+msgstr ""
+
+#: inc/customizer/customizer.php:470
+msgid "Enter the social profile URLs."
+msgstr ""
+
+#: inc/customizer/customizer.php:393
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:53
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:428
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:76
+msgid "Footer Options"
+msgstr ""
+
+#: inc/compatibility/elementskit-lite.php:55
+#: inc/compatibility/elementskit-lite.php:56
+msgid "Footers"
+msgstr ""
+
+#: inc/customizer/customizer.php:270 inc/customizer/customizer.php:287
+#: inc/customizer/customizer.php:353 inc/customizer/customizer.php:370
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:61
+msgid "General Options"
+msgstr ""
+
+#: functions.php:52
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:193 inc/customizer/customizer.php:242
+#: inc/customizer/customizer.php:325
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:326
+msgid "Header background image for blog archive and single page."
+msgstr ""
+
+#: inc/customizer/customizer.php:243
+msgid ""
+"Header background image for portfolio archive and single pages that are not "
+"created using Elementor."
+msgstr ""
+
+#: inc/customizer/customizer.php:194
+msgid ""
+"Header background image is intended for pages that are not created using "
+"Elementor."
+msgstr ""
+
+#: inc/compatibility/elementskit-lite.php:47
+#: inc/compatibility/elementskit-lite.php:48
+msgid "Headers"
+msgstr ""
+
+#: inc/breadcrumbs.php:266 inc/functions.php:82
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:486
+msgid "Hover"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:534
+msgid "Hover Animation"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://awaiken.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/awaiken"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:230
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/customizer/customizer.php:167
+msgid "If you want to change the current loading icon, select it here."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:146
+msgid "Image Size"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/portfolio.php:45
+msgid "Layout"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:157
+msgid "Left"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:241
+msgid "Lightbox"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:210
+#: inc/compatibility/elementor/widgets/site-logo.php:225
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:396
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Magic Cursor"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:319
+msgid "Max Width"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:216
+msgid "Media File"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:789 inc/breadcrumbs.php:845 inc/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#. Add the queried month to the title
+#: inc/functions.php:102
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:119
+#: inc/compatibility/elementor/widgets/site-logo.php:183
+#: inc/compatibility/elementor/widgets/site-logo.php:247
+msgid "No"
+msgstr ""
+
+#: inc/customizer/customizer.php:175 inc/customizer/customizer.php:202
+#: inc/customizer/customizer.php:251 inc/customizer/customizer.php:334
+#: inc/customizer/customizer.php:436
+msgid "No file selected"
+msgstr ""
+
+#: inc/compatibility/elementor/modify-default-control.php:16
+#: inc/compatibility/elementor/modify-default-control.php:36
+#: inc/compatibility/elementor/widgets/site-logo.php:215
+#: inc/compatibility/elementor/widgets/site-logo.php:371
+msgid "None"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:451
+msgid "Normal"
+msgstr ""
+
+#: template-parts/404.php:44
+msgid "Oops! Sorry, we could not find the Page"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:458
+#: inc/compatibility/elementor/widgets/site-logo.php:492
+msgid "Opacity"
+msgstr ""
+
+#: inc/functions.php:117
+msgid "Our Projects"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:611
+msgid "Padding"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/404.php:27
+msgid "Page Not Found."
+msgstr ""
+
+#: inc/customizer/customizer.php:399
+msgid "Pinterest"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/portfolio.php:20
+msgid "Portfolio Grid"
+msgstr ""
+
+#: functions.php:210
+msgid "Portfolio sidebar"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/portfolio.php:75
+msgid "Posts Per Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:100
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/customizer.php:166
+msgid "Preloader icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:265
+msgid "Project Archive Page Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:66
+msgid "Project Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:228
+msgid "Project Page Archive Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:282
+msgid "Project Single Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:397
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/customizer.php:174 inc/customizer/customizer.php:201
+#: inc/customizer/customizer.php:250 inc/customizer/customizer.php:333
+#: inc/customizer/customizer.php:435
+msgid "Remove"
+msgstr ""
+
+#: inc/compatibility/elementor/modify-default-control.php:37
+msgid "Reveal Style 1"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:165
+msgid "Right"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. Add the author's name to the title
+#: inc/functions.php:96
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:171 inc/customizer/customizer.php:176
+#: inc/customizer/customizer.php:198 inc/customizer/customizer.php:203
+#: inc/customizer/customizer.php:247 inc/customizer/customizer.php:252
+#: inc/customizer/customizer.php:330 inc/customizer/customizer.php:335
+#: inc/customizer/customizer.php:432 inc/customizer/customizer.php:437
+msgid "Select File"
+msgstr ""
+
+#: functions.php:200
+msgid "Service sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:133
+msgid "Show Magic Cursor."
+msgstr ""
+
+#: functions.php:190
+msgid "Sidebar"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:49
+#: inc/compatibility/elementor/widgets/site-logo.php:109
+msgid "Site Logo"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:275
+msgid "Site logo"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/customizer.php:149
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: inc/customizer/customizer.php:150
+msgid "Smooth Scrolling Disable/Enable"
+msgstr ""
+
+#: inc/customizer/customizer.php:385
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/customizer/customizer.php:469
+msgid "Social URLs"
+msgstr ""
+
+#. Description of the theme
+msgid "Solar Energy Elementor WordPress Theme"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:372
+msgid "Solid"
+msgstr ""
+
+#. Name of the theme
+msgid "Solor"
+msgstr ""
+
+#: inc/compatibility/elementor/modify-default-control.php:13
+#: inc/compatibility/elementor/modify-default-control.php:33
+msgid "solor - Animation"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:623
+msgid "Spacing"
+msgstr ""
+
+#: inc/compatibility/elementor/modify-default-control.php:17
+msgid "Style 1"
+msgstr ""
+
+#: inc/compatibility/elementor/modify-default-control.php:18
+msgid "Style 2"
+msgstr ""
+
+#. Add the tag's name to the title
+#: inc/functions.php:110
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: template-parts/single.php:88
+msgid "Tagged : "
+msgstr ""
+
+#: inc/customizer/customizer.php:116
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:402
+msgid "Telegram"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:566
+msgid "Text Color"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:509
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/customizer/customizer.php:398
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/customizer.php:394
+msgid "Twitter"
+msgstr ""
+
+#: inc/functions.php:93
+msgid "URL not found"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:258
+msgid "View"
+msgstr ""
+
+#: inc/customizer/customizer.php:400
+msgid "vk"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer/customizer.php:395
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:283
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:271 inc/customizer/customizer.php:288
+#: inc/customizer/customizer.php:354 inc/customizer/customizer.php:371
+msgid "With Sidebar"
+msgstr ""
+
+#: inc/breadcrumbs.php:788 inc/breadcrumbs.php:817 inc/breadcrumbs.php:844
+#: inc/breadcrumbs.php:871 inc/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#. Add the queried year to the title
+#: inc/functions.php:105
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:118
+#: inc/compatibility/elementor/widgets/site-logo.php:184
+#: inc/compatibility/elementor/widgets/site-logo.php:246
+msgid "Yes"
+msgstr ""

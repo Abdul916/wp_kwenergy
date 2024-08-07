@@ -1,0 +1,564 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sticky Buttons\n"
+"POT-Creation-Date: 2023-02-06 12:06+0200\n"
+"PO-Revision-Date: 2021-09-16 12:20+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sticky-buttons.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-admin.php:136
+msgid "More features in the PRO version"
+msgstr ""
+
+#: admin/class-admin.php:235 admin/page-settings.php:121
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:253
+#, php-format
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">"
+msgstr ""
+
+#: admin/class-admin.php:299
+msgid "Something went wrong. Contact the plugin developer"
+msgstr ""
+
+#: admin/class-admin.php:311 admin/page-main.php:21
+msgid "Item Added"
+msgstr ""
+
+#: admin/class-admin.php:326 admin/page-main.php:24
+msgid "Item Updated"
+msgstr ""
+
+#: admin/class-admin.php:355
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: admin/class-admin.php:355 admin/class-admin.php:362
+msgid "Error"
+msgstr ""
+
+#: admin/class-admin.php:362
+msgid "Please upload a file to import"
+msgstr ""
+
+#: admin/class-list-table.php:106 admin/class-list-table.php:231
+msgid "Untitle"
+msgstr ""
+
+#: admin/class-list-table.php:115
+msgid "Edit"
+msgstr ""
+
+#: admin/class-list-table.php:116
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-list-table.php:118 admin/page-settings.php:79
+msgid "Delete"
+msgstr ""
+
+#: admin/class-list-table.php:119 admin/page-tools.php:29
+msgid "Export"
+msgstr ""
+
+#: admin/class-list-table.php:233
+msgid "Active"
+msgstr ""
+
+#: admin/class-list-table.php:234
+msgid "Inactive"
+msgstr ""
+
+#: admin/class-list-table.php:313
+msgid "Delate"
+msgstr ""
+
+#: admin/page-list.php:25
+msgid "Search"
+msgstr ""
+
+#: admin/page-main.php:30
+msgid "Item Deleted"
+msgstr ""
+
+#: admin/page-main.php:38
+msgid "List"
+msgstr ""
+
+#: admin/page-main.php:39
+msgid "Add new"
+msgstr ""
+
+#: admin/page-main.php:40
+msgid "Import/Export"
+msgstr ""
+
+#: admin/page-main.php:41
+msgid "Pro Features"
+msgstr ""
+
+#: admin/page-main.php:42
+msgid "Support"
+msgstr ""
+
+#: admin/page-main.php:43
+msgid "Rate"
+msgstr ""
+
+#: admin/page-main.php:64
+msgid "Add New"
+msgstr ""
+
+#: admin/page-main.php:95 admin/settings/database.php:30
+msgid "Update"
+msgstr ""
+
+#: admin/page-settings.php:36
+msgid "Register an menu name"
+msgstr ""
+
+#: admin/page-settings.php:47
+msgid "Publish"
+msgstr ""
+
+#: admin/page-settings.php:55
+msgid "Deactivated"
+msgstr ""
+
+#: admin/page-settings.php:60
+msgid "Test mode"
+msgstr ""
+
+#: admin/page-settings.php:84
+msgid "Saving"
+msgstr ""
+
+#: admin/page-settings.php:118
+msgid "Menu"
+msgstr ""
+
+#: admin/page-settings.php:124
+msgid "Display"
+msgstr ""
+
+#: admin/page-support.php:24
+#, php-format
+msgid ""
+"To get your support related question answered in the fastest timing, please "
+"send a message via the form below or write to us on email %1$s"
+msgstr ""
+
+#: admin/page-support.php:28
+msgid ""
+"Also, you can send us your ideas and suggestions for improving the plugin."
+msgstr ""
+
+#: admin/page-support.php:50
+msgid "Please, Enter your Message."
+msgstr ""
+
+#: admin/page-support.php:53
+msgid "Please, Enter your Email."
+msgstr ""
+
+#: admin/page-support.php:81
+msgid "Your Message sent to the Support."
+msgstr ""
+
+#: admin/page-support.php:88
+msgid ""
+"Sorry, but message did not send. Please, contact us yoda@wow-company.com"
+msgstr ""
+
+#: admin/page-support.php:104
+msgid "First Name"
+msgstr ""
+
+#: admin/page-support.php:108
+msgid "Enter Your First Name"
+msgstr ""
+
+#: admin/page-support.php:116
+msgid "Last Name"
+msgstr ""
+
+#: admin/page-support.php:120
+msgid "Enter Your Last Name"
+msgstr ""
+
+#: admin/page-support.php:130
+msgid "Link to the page with issue"
+msgstr ""
+
+#: admin/page-support.php:142
+msgid "Contact email"
+msgstr ""
+
+#: admin/page-support.php:158
+msgid "Plugin"
+msgstr ""
+
+#: admin/page-support.php:171
+msgid "Message type"
+msgstr ""
+
+#: admin/page-support.php:176
+msgid "Issue"
+msgstr ""
+
+#: admin/page-support.php:177
+msgid "Idea"
+msgstr ""
+
+#: admin/page-support.php:190
+msgid "Enter Your Message"
+msgstr ""
+
+#: admin/page-support.php:205
+msgid "Send to Support"
+msgstr ""
+
+#: admin/page-tools.php:22
+msgid "Export Settings"
+msgstr ""
+
+#: admin/page-tools.php:25
+#, php-format
+msgid ""
+"Export the  settings for %s as a .json file. This allows you to easily "
+"import the configuration into another site."
+msgstr ""
+
+#: admin/page-tools.php:36
+msgid "Import Settings"
+msgstr ""
+
+#: admin/page-tools.php:39
+#, php-format
+msgid ""
+"Import the %s settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/page-tools.php:47
+msgid "Update item if item already exists."
+msgstr ""
+
+#: admin/page-tools.php:55
+msgid "Import"
+msgstr ""
+
+#: admin/settings/clone.php:24 admin/settings/menu.php:27
+msgid "no label"
+msgstr ""
+
+#: admin/settings/clone.php:38 admin/settings/menu.php:43
+msgid "Label Text"
+msgstr ""
+
+#: admin/settings/clone.php:53 admin/settings/menu.php:58
+msgid "Item type"
+msgstr ""
+
+#: admin/settings/clone.php:60 admin/settings/menu.php:65
+#: admin/settings/options/clone.php:34 admin/settings/options/menu.php:46
+msgid "Link"
+msgstr ""
+
+#: admin/settings/clone.php:72 admin/settings/menu.php:50
+#: admin/settings/menu.php:75
+msgid "Icon"
+msgstr ""
+
+#: admin/settings/clone.php:83 admin/settings/menu.php:85
+msgid "Font Color"
+msgstr ""
+
+#: admin/settings/clone.php:91 admin/settings/menu.php:93
+msgid "Background"
+msgstr ""
+
+#: admin/settings/clone.php:101 admin/settings/menu.php:103
+msgid "ID for element"
+msgstr ""
+
+#: admin/settings/clone.php:109 admin/settings/menu.php:111
+msgid "Class for element"
+msgstr ""
+
+#: admin/settings/clone.php:117 admin/settings/menu.php:119
+msgid "Attribute: rel"
+msgstr ""
+
+#: admin/settings/clone.php:124
+msgid "Remove"
+msgstr ""
+
+#: admin/settings/database.php:39 admin/settings/database.php:51
+msgid "Save"
+msgstr ""
+
+#: admin/settings/display.php:19
+msgid "Font Awesome 5 style"
+msgstr ""
+
+#: admin/settings/display.php:24
+msgid "Disable"
+msgstr ""
+
+#: admin/settings/main.php:19
+msgid "Main"
+msgstr ""
+
+#: admin/settings/main.php:26
+msgid "Position"
+msgstr ""
+
+#: admin/settings/main.php:34
+msgid "Shape"
+msgstr ""
+
+#: admin/settings/main.php:42
+msgid "Size"
+msgstr ""
+
+#: admin/settings/main.php:53
+msgid "Space"
+msgstr ""
+
+#: admin/settings/main.php:61
+msgid "Animation"
+msgstr ""
+
+#: admin/settings/main.php:69
+msgid "Shadow"
+msgstr ""
+
+#: admin/settings/main.php:80
+msgid "Z-index"
+msgstr ""
+
+#: admin/settings/menu.php:29
+msgid "sub item"
+msgstr ""
+
+#: admin/settings/menu.php:49
+msgid "Type"
+msgstr ""
+
+#: admin/settings/menu.php:51
+msgid "Style"
+msgstr ""
+
+#: admin/settings/menu.php:52
+msgid "Attributes"
+msgstr ""
+
+#: admin/settings/menu.php:140
+msgid "Add item"
+msgstr ""
+
+#: admin/settings/options/clone.php:67 admin/settings/options/menu.php:127
+msgid "Set ID for element."
+msgstr ""
+
+#: admin/settings/options/clone.php:77 admin/settings/options/menu.php:120
+msgid "Set Class for element."
+msgstr ""
+
+#: admin/settings/options/clone.php:79 admin/settings/options/menu.php:122
+msgid "You may enter several classes separated by a space."
+msgstr ""
+
+#: admin/settings/options/clone.php:86 admin/settings/options/menu.php:95
+msgid "Set the icon for menu item. If you want use the custom item:"
+msgstr ""
+
+#: admin/settings/options/clone.php:88 admin/settings/options/menu.php:97
+msgid "1. Check the box on \"custom\""
+msgstr ""
+
+#: admin/settings/options/clone.php:89 admin/settings/options/menu.php:98
+msgid "2. Upload the icon in Media Library"
+msgstr ""
+
+#: admin/settings/options/clone.php:90 admin/settings/options/menu.php:99
+msgid "3. Copy the URL to icon"
+msgstr ""
+
+#: admin/settings/options/clone.php:91 admin/settings/options/menu.php:100
+msgid "4. Paste the icon URL to field"
+msgstr ""
+
+#: admin/settings/options/clone.php:96 admin/settings/options/menu.php:105
+msgid ""
+"Set the text for menu item. Left empty, if you want use item without tooltip."
+msgstr ""
+
+#: admin/settings/options/clone.php:100 admin/settings/options/menu.php:109
+msgid "Types of the button which can be select"
+msgstr ""
+
+#: admin/settings/options/clone.php:102 admin/settings/options/menu.php:111
+msgid "Link - insert any link"
+msgstr ""
+
+#: admin/settings/options/clone.php:108 admin/settings/options/menu.php:116
+msgid "Hold open button label."
+msgstr ""
+
+#: admin/settings/options/display.php:24
+msgid "Disable Font Awesome 5 style on front-end of the site."
+msgstr ""
+
+#: admin/settings/options/display.php:26
+msgid ""
+"If you already have a Font Awesome 5 installed on the site, you can disable "
+"the include the Font Awesome 5 style."
+msgstr ""
+
+#: admin/settings/options/general.php:23
+msgid ""
+"If check - the menu not displayed on the frontend. If uncheck - the menu "
+"will show on the frontend."
+msgstr ""
+
+#: admin/settings/options/general.php:34
+msgid "If test mode is enabled, the form will show for admin only."
+msgstr ""
+
+#: admin/settings/options/general.php:39
+msgid "All posts and pages"
+msgstr ""
+
+#: admin/settings/options/general.php:40
+msgid "Where shortcode is inserted"
+msgstr ""
+
+#: admin/settings/options/general.php:54
+msgid "Choose a condition to target to specific content."
+msgstr ""
+
+#: admin/settings/options/main.php:19
+msgid "Left Center"
+msgstr ""
+
+#: admin/settings/options/main.php:20
+msgid "Right Center"
+msgstr ""
+
+#: admin/settings/options/main.php:26
+msgid "Specify position on screen."
+msgstr ""
+
+#: admin/settings/options/main.php:36
+msgid "Square"
+msgstr ""
+
+#: admin/settings/options/main.php:37
+msgid "Rounded square"
+msgstr ""
+
+#: admin/settings/options/main.php:38
+msgid "Circle"
+msgstr ""
+
+#: admin/settings/options/main.php:39
+msgid "Ellipse"
+msgstr ""
+
+#: admin/settings/options/main.php:45
+msgid "The shape of the buttons. It also determines the shape of the labels."
+msgstr ""
+
+#: admin/settings/options/main.php:56
+msgid "Medium"
+msgstr ""
+
+#: admin/settings/options/main.php:62
+msgid "Set the size for all buttons"
+msgstr ""
+
+#: admin/settings/options/main.php:72
+msgid "Yes"
+msgstr ""
+
+#: admin/settings/options/main.php:73 admin/settings/options/main.php:105
+msgid "No"
+msgstr ""
+
+#: admin/settings/options/main.php:79
+msgid "If there should be space between buttons."
+msgstr ""
+
+#: admin/settings/options/main.php:89
+msgid "None"
+msgstr ""
+
+#: admin/settings/options/main.php:95
+msgid "The appearance effect of the button label"
+msgstr ""
+
+#: admin/settings/options/main.php:111
+msgid "If there should be a shadow on buttons."
+msgstr ""
+
+#: admin/settings/options/main.php:127
+msgid ""
+"The z-index property specifies the stack order of an element. An element "
+"with greater stack order is always in front of an element with a lower stack "
+"order."
+msgstr ""
+
+#: admin/settings/options/menu.php:131
+msgid "Set the attribute Alt for custom image."
+msgstr ""
+
+#: includes/about/wow-plugins.php:94
+msgid "Active Installs"
+msgstr ""
+
+#: sticky-buttons.php:85
+msgid "WordPress.org"
+msgstr ""
+
+#: sticky-buttons.php:117 sticky-buttons.php:129
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Sticky Buttons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/sticky-buttons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easily create sticky buttons of varying complexity."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com/"
+msgstr ""

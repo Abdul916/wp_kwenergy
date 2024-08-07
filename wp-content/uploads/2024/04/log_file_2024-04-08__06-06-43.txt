@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://explorelogicsit.net/kwenergy
+Data file = /home/u651353481/domains/explorelogicsit.net/public_html/kwenergy/wp-content/uploads/2024/04/demo-content-import-file_2024-04-08__06-06-43.xml
+Widget file = /home/u651353481/domains/explorelogicsit.net/public_html/kwenergy/wp-content/uploads/2024/04/demo-widgets-import-file_2024-04-08__06-06-43.json
+Customizer file = /home/u651353481/domains/explorelogicsit.net/public_html/kwenergy/wp-content/uploads/2024/04/demo-customizer-import-file_2024-04-08__06-06-43.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+
+Service sidebar : 
+
+Navigation Menu - No Title - Imported
+Need Help - Get Professional Help - Imported
+
+Portfolio sidebar : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

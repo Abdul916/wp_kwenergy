@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Solor Theme Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-22 04:06+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: solor-themes-addons"
+
+#: solor-theme-addons.php:183
+msgid "Add New"
+msgstr ""
+
+#: solor-theme-addons.php:182
+msgid "Add New Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:181
+msgid "All Items"
+msgstr ""
+
+#. Author of the plugin
+msgid "Awaiken Technology"
+msgstr ""
+
+#: solor-theme-addons.php:185
+msgid "Edit Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:191
+msgid "Featured Image"
+msgstr ""
+
+#: solor-theme-addons.php:199
+msgid "Filter items list"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://awaiken.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://awaikenthemes.com"
+msgstr ""
+
+#: solor-theme-addons.php:121
+msgid "Image URL:"
+msgstr ""
+
+#: solor-theme-addons.php:195
+msgid "Insert into Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:197
+msgid "Items list"
+msgstr ""
+
+#: solor-theme-addons.php:198
+msgid "Items list navigation"
+msgstr ""
+
+#: solor-theme-addons.php:61
+msgid "Need Help"
+msgstr ""
+
+#: solor-theme-addons.php:112
+msgid "Need Help? Talk with Expert"
+msgstr ""
+
+#: solor-theme-addons.php:184
+msgid "New Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:189
+msgid "Not found"
+msgstr ""
+
+#: solor-theme-addons.php:190
+msgid "Not found in Trash"
+msgstr ""
+
+#: solor-theme-addons.php:180
+msgid "Parent Item:"
+msgstr ""
+
+#: solor-theme-addons.php:132
+msgid "Phone Number:"
+msgstr ""
+
+#: solor-theme-addons.php:123
+msgid "Please insert your image URL."
+msgstr ""
+
+#: solor-theme-addons.php:241
+msgctxt "Portfolio"
+msgid "All Categories"
+msgstr ""
+
+#: solor-theme-addons.php:239
+msgctxt "Portfolio"
+msgid "Categories"
+msgstr ""
+
+#: solor-theme-addons.php:240
+msgctxt "Portfolio"
+msgid "Category"
+msgstr ""
+
+#: solor-theme-addons.php:175 solor-theme-addons.php:176
+#: solor-theme-addons.php:177
+msgctxt "Portfolio"
+msgid "Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:178
+msgid "Portfolio Item"
+msgstr ""
+
+#: solor-theme-addons.php:179
+msgid "Portfolio Item Archives"
+msgstr ""
+
+#: solor-theme-addons.php:193
+msgid "Remove featured image"
+msgstr ""
+
+#: solor-theme-addons.php:188
+msgid "Search Portfolios"
+msgstr ""
+
+#: includes/secondary-image.php:22
+msgid "Secondary Image"
+msgstr ""
+
+#: solor-theme-addons.php:192
+msgid "Set featured image"
+msgstr ""
+
+#. Name of the plugin
+msgid "Solor Theme Addons"
+msgstr ""
+
+#: solor-theme-addons.php:63
+msgid "The widget is used to display a 'Need Help' box."
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin is intended for use with the Solor theme."
+msgstr ""
+
+#: solor-theme-addons.php:127
+msgid "Title:"
+msgstr ""
+
+#: solor-theme-addons.php:186
+msgid "Update Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:196
+msgid "Uploaded to this Portfolio"
+msgstr ""
+
+#: solor-theme-addons.php:194
+msgid "Use as featured image"
+msgstr ""
+
+#: solor-theme-addons.php:187
+msgid "View Portfolio"
+msgstr ""

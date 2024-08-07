@@ -1,0 +1,11 @@
+body{
+	--e-global-color-primary					: #163300;
+	--e-global-color-secondary					: #eff1ed;
+	--e-global-color-text						: #888888;
+	--e-global-color-accent						: #89ea5f;
+	--e-global-color-75c969e					: #ffffff;
+	--e-global-color-75c282f					: #ffffff20;
+	--e-global-color-a44a32f					: #163300A6;
+	--e-global-typography-primary-font-family	: 'Rajdhani', sans-serif;
+	--e-global-typography-text-font-family		: 'Rubik', sans-serif;
+}
